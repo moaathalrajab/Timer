@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="no_time">00:00:00</string>
+    <string name="channel_name">Time remaining</string>
+    <string name="channel_description">Displays how much time is left</string>
+    <string name="channel_name_completed">Timer completed</string>
+    <string name="channel_description_completed">Displays when the timer completes</string>
+    <string name="timer_finished">Timer has finished!</string>
+</resources>
